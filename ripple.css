@@ -1,0 +1,22 @@
+.rippleEffect{
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+#rippleCircle{
+	background-color: rgb(255,255,255);
+	opacity: 0.4;
+	border-radius: 100%;
+	position: absolute;
+	transform: scale(0);
+	transition: all 0.2s ease-out;
+}
+
+#rippleCircle.mouseIn{
+	transform: scale(1);
+}
+
+#rippleCircle.mouseOut{
+	opacity: 0;
+}
