@@ -10,7 +10,7 @@
 	border-radius: 100%;
 	position: absolute;
 	transform: scale(0);
-	transition: all 0.2s ease-out;
+	transition: all 0.5s ease-out;
 }
 
 #rippleCircle.mouseIn{

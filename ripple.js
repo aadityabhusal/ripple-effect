@@ -31,7 +31,7 @@ for(var i = 0; i < rippleEffect.length; i++){
     var x = e.pageX;
     var y = e.pageY;
     // Radius of the circle is 85% of the width of the rippleEffect Element
-    var radius = (85/100)*this.offsetWidth;
+    var radius = this.offsetWidth*2.5;
     // Giving the height, width, top and left value to the circle
     circle.style.width = radius + "px";
     circle.style.height = radius + "px";
