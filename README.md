@@ -1,13 +1,13 @@
 # ripple-effect
 Ripple Effect like Google's Material Design
 
-##Project Demo: 
+## Project Demo: 
 
 Check out the live demo at: https://aadityabhusal.github.io/ripple-effect/
 
 ## How To Use:
 
-**Include source files: **
+**Include source files:**
 
 You only need two file i.e. ripple.js and ripple.css files to use this effect. Include those two files in your HTML file. 
 Include ripple.css file inside your head tags below your main and stylesheet.
