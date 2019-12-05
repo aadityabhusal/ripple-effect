@@ -5,6 +5,8 @@ The ripple effect works on mouse hover and click. It can be easily used with blo
 
 ## Project Demo: 
 
+![demo image](demoGIF.gif)
+
 Check out the live demo at: https://aadityabhusal.github.io/ripple-effect/
 
 ## How To Use:
